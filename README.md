@@ -18,7 +18,9 @@ Features
 
     Modern UI: A clean, responsive, and space-themed interface built with pure HTML and CSS.
 
-  How to Use
+  How to Use:
+
+  
   Input Data:
 
     Click  Load Demo to use pre-loaded TLEs for the ISS and HST.
